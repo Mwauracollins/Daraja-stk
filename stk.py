@@ -1,6 +1,5 @@
 import os
 
-import daraja
 from mpesa.api.mpesa_express import MpesaExpress
 
 consumer_key = os.getenv("CONSUMER_KEY")
